@@ -1,6 +1,6 @@
 # dice_first_app
 
-A new Flutter project.
+A new Flutter project. Complete the use of the dart file according to UI speration and Use the statelesswidget and Statefulwidget.
 
 ## Getting Started
 
